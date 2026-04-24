@@ -9,6 +9,7 @@ This application have 3 XML (actvity_welcome, activity_question and activiyt_sco
 And have the kotlin code
 YouTubelinks:
 https://youtu.be/pOHimLOSSU8
+https://youtu.be/ca8wnuzcvIE
 
 
 
