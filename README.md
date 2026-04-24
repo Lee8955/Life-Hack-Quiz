@@ -7,6 +7,8 @@ Also to check user answers and calculate a score,
 And give feedback based on performance.
 This application have 3 XML (actvity_welcome, activity_question and activiyt_score)
 And have the kotlin code
-YouTubelink:
+YouTubelinks:
+https://youtu.be/pOHimLOSSU8
+
 
 
